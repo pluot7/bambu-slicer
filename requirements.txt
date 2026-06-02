@@ -1,0 +1,9 @@
+# BambuStudio 切片工具依赖清单
+# 核心功能无需第三方库（仅使用 Python 标准库）
+#
+# 可选依赖：
+# trimesh    — 用于文件格式兜底转换（trimesh 导出 3MF）
+# numpy      — trimesh 的依赖
+#
+# 安装可选依赖：
+#   pip install trimesh numpy
