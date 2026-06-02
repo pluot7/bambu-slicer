@@ -183,6 +183,4 @@ Return dict with precise filament weight
 - Slicing adds ~2–4s per model
 - BambuStudio CLI output parsing is format-specific — may break with future BambuStudio updates
 
-## License
 
-MIT
